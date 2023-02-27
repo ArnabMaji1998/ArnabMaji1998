@@ -1,5 +1,5 @@
 # 💫 About Me:
-***Hello World!***  , I am Arnab Maji<br><br>Problem solver and eager to learn new skills<br>I am a student and developer.<br>🌱 I’m pursuing B.Tech. in Computer Science and Engineering at Academy Of Technology<br>👯 I’m looking to collaborate on Open Source Project<br>📫 Reach me: arnabmaji671@gmail.com<br>💬 Ask me about Tech Related stuffs<br>😄 Pronouns: He/His<br>⚡ Fun fact: I love to travel a lot!<br>
+***Hello World!***  , ***I am Arnab Maji***<br><br>Problem solver and eager to learn new skills<br>I am a student and developer.<br>🌱 I’m pursuing B.Tech. in Computer Science and Engineering at Academy Of Technology<br>👯 I’m looking to collaborate on Open Source Project<br>📫 Reach me: arnabmaji671@gmail.com<br>💬 Ask me about Tech Related stuffs<br>😄 Pronouns: He/His<br>⚡ Fun fact: I love to travel a lot!<br>
 
 
 ## 🌐 Socials:
